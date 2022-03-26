@@ -9,7 +9,7 @@ A simple Telegram bot, in PHP, to check if the bin is valid or not.
 # DEPLOY
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/Whose-Bin-Bot/tree/main)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=camit59712@peykesabz.com)
 
 AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook?url=<Heroku site link>/bot.php``
 
@@ -30,9 +30,7 @@ AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook
 For any type of help on deploy. Contact us on [INDUS CHATS](https://t.me/induschats).
 
 
-## Modified by
 
-[Who](https://t.me/unkusr)
 
 
 **DO GIVE A STAR TO MY PROJECT TO SHOW YOUR SUPPORT!!**
